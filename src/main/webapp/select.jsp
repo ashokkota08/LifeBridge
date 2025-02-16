@@ -79,8 +79,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 320px; /* Full height of the viewport */
-        text-align: center; /* Center text inside the div */
+        height: 320px; 
+        text-align: center; 
         flex-direction: column;
     }
 
@@ -100,9 +100,7 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
-   
-    <!-- Main Content -->
+  
     <div id = "main">
     <center>
     <br>

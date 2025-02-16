@@ -40,7 +40,7 @@ public class BloodDonation extends HttpServlet {
 					dao.rollback();
 					request.setAttribute("status","Error in adding ...!");
 				}
-				RequestDispatcher dispature = request.getRequestDispatcher("bloodregister.jsp");
+				RequestDispatcher dispature = request.getRequestDispatcher("result.jsp");
 				dispature.forward(request, response);
 				
 				

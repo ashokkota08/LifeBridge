@@ -67,10 +67,9 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+  
    
 
-    <!-- Main Content -->
     <center>
     <br>
         <h1>Blood Donor Registration Form</h1>

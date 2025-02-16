@@ -22,7 +22,7 @@
             text-align: center;
         }
         header h1 {
-            color: white; /* Explicitly set the header text color to white */
+            color: white;
             margin: 0;
         }
         footer {
@@ -74,12 +74,12 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+  
     <header>
         <h1>Available Treatments</h1>
     </header>
 
-    <!-- Main Content -->
+
     <div class="container">
         <div class="treatment-list">
             <div class="treatment-item">
@@ -105,7 +105,7 @@
         </div>
     </div>
 
-    <!-- Footer -->
+    
     <footer>
         <p>&copy; 2024 Our Hospital. All rights reserved.</p>
     </footer>

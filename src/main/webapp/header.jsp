@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LifeBridge</title>
     <style>
-        /* General Styles */
+       
         body {
             margin: 0;
             font-family: sans-serif;
@@ -63,7 +63,7 @@
             margin-top: 20px;
         }
 
-        /* Toggle Menu Styles */
+     
         #menu-toggle:checked+#menu {
             display: block;
         }
@@ -73,7 +73,7 @@
         }
         
 
-        /* Arrow and Hover Effects */
+      
         a,
         span {
             position: relative;
@@ -126,7 +126,6 @@
         }
         
 
-        /* Background Gradient */
         .bg-blue-teal-gradient {
             background: rgb(49, 130, 206);
             background: linear-gradient(90deg, rgba(49, 130, 206, 1) 0%, rgba(56, 178, 172, 1) 100%);

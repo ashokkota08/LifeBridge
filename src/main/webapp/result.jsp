@@ -102,10 +102,10 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+   
    
 
-    <!-- Main Content -->
+ 
  	<center>
  	<div class="success-message">
         <img src="registration.png" alt="Success"> <!-- Use your checkmark image -->
@@ -113,7 +113,7 @@
     </div>
     </center>
 
-    <!-- Footer -->
+   
     <div class="footer">
         <p>&copy; 2024 Hospital Management System. All Rights Reserved.</p>
     </div>

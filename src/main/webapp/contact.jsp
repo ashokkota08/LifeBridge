@@ -69,7 +69,7 @@
             margin: 20px 0;
             font-size: 18px;
             text-align: left;
-            border-radius: 10px; /* Added border-radius for rounded corners */
+            border-radius: 10px;
             overflow: hidden;
         }
         th, td {

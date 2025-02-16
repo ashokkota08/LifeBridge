@@ -91,10 +91,9 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
+    
    
 
-    <!-- Main Content -->
     <center>
     <br>
         <h1>Available Treatments</h1>
@@ -129,7 +128,7 @@
     </div>
     </center>
 
-    <!-- Footer -->
+ 
     <div class="footer">
         <p>&copy; 2024 Hospital Management System. All Rights Reserved.</p>
     </div>

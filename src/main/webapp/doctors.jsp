@@ -75,7 +75,7 @@
     <br>
         <h1>Doctor Registration Form</h1>
         <table>
-            <form action="donation" method="post">
+            <form action="savedoctor" method="post">
                 <tr>
                     <td><label for="name">Doctor Name</label></td>
                     <td><input type="text" id="name" name="name" required></td>

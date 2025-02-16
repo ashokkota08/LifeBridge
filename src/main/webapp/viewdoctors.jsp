@@ -69,7 +69,7 @@
             margin: 20px 0;
             font-size: 18px;
             text-align: left;
-            border-radius: 10px; /* Added border-radius for rounded corners */
+            border-radius: 10px; 
             overflow: hidden;
         }
         th, td {
@@ -85,10 +85,7 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
-   
-
-    <!-- Main Content -->
+    
     <center>
     <br>
         <h1>Doctors List</h1>

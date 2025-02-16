@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LifeBridge</title>
     <style>
-        /* General Styles */
+       
         body {
             margin: 0;
             font-family: sans-serif;
@@ -54,7 +54,7 @@
             border-radius: 5px;
         }
 
-        /* Hero Section */
+     
         .hero {
             background-image: url('cover-bg.jpg'); /* Replace with your actual image */
             background-size: cover;
@@ -80,7 +80,7 @@
             margin-top: 20px;
         }
 
-        /* Toggle Menu Styles */
+       
         #menu-toggle:checked+#menu {
             display: block;
         }
@@ -89,7 +89,7 @@
             display: block;
         }
 
-        /* Arrow and Hover Effects */
+       
         a,
         span {
             position: relative;
@@ -141,7 +141,7 @@
             transform: translateX(0.75em);
         }
 
-        /* Background Gradient */
+      
         .bg-blue-teal-gradient {
             background: rgb(49, 130, 206);
             background: linear-gradient(90deg, rgba(49, 130, 206, 1) 0%, rgba(56, 178, 172, 1) 100%);

@@ -43,7 +43,7 @@ public class SaveDoctor extends HttpServlet {
 				request.setAttribute("status","Error in adding Doctor...");
 				
 			}
-			RequestDispatcher dispature = request.getRequestDispatcher("doctors.jsp");
+			RequestDispatcher dispature = request.getRequestDispatcher("result.jsp");
 			dispature.forward(request, response);
 			
 			
